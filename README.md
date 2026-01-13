@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naikd0
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning data science, machine learning and python for bioinformatics
+- 🌱 I’m currently learning to use plotly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
